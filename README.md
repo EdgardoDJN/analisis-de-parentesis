@@ -1,5 +1,5 @@
 # Análisis de paréntesis
-La capacidad de diferenciar entre paréntesis que están correctamente balanceados y aquellos que están desbalanceados es una parte importante del reconocimiento de muchas estructuras de lenguajes de programación y su gran uso en árbol de expresiones aritméticas.
+La capacidad de diferenciar entre paréntesis que están correctamente balanceados y aquellos que están desbalanceados es una parte importante del reconocimiento de muchas estructuras de lenguajes de programación y su gran uso en la utilización de arból de expresiones aritmeticas.
 ## Construido con C++ 17🛠️
 
 _Herramientas utilizadas_
